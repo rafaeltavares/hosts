@@ -1,3 +1,4 @@
+0.0.0.0 ads.rubiconproject.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 cdn.concert.io
@@ -8,11 +9,28 @@
 0.0.0.0 metrics.icloud.com
 0.0.0.0 p1.parsely.com
 0.0.0.0 pixel.wp.com
-0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 
-# moatads
+# criteo.com
+0.0.0.0 bidder.criteo.com
+0.0.0.0 gum.criteo.com
+
+# doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+
+# googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+
+# moatads.com
 0.0.0.0 mb.moatads.com
 0.0.0.0 z.moatads.com
+
+# tailtarget.com
+0.0.0.0 b.t.tailtarget.com
+0.0.0.0 d.tailtarget.com
+0.0.0.0 tags.t.tailtarget.com

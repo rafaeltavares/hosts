@@ -1,3 +1,4 @@
+0.0.0.0 a.teads.tv
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 api.bam-x.com
@@ -20,6 +21,10 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 secure.adnxs.com
 
+# amazon-adsystem.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+
 # casalemedia.com
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 htlb.casalemedia.com
@@ -30,6 +35,7 @@
 0.0.0.0 static.criteo.net
 
 # doubleclick.net
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net

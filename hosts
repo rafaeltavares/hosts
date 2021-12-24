@@ -3,6 +3,7 @@
 0.0.0.0 analytics.twitter.com
 0.0.0.0 api.bam-x.com
 0.0.0.0 assoc-na.associates-amazon.com
+0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 connect.facebook.net
@@ -39,6 +40,7 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
 
 # freeskreen.com
 0.0.0.0 ads.freeskreen.com

@@ -1,12 +1,12 @@
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.twitter.com
+0.0.0.0 api.bam-x.com
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 horizon-track.globo.com
 0.0.0.0 metrics.icloud.com
-0.0.0.0 p1.parsely.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 sb.scorecardresearch.com
@@ -52,6 +52,14 @@
 0.0.0.0 mb.moatads.com
 0.0.0.0 z.moatads.com
 
+# narrativ.com
+0.0.0.0 events.release.narrativ.com
+0.0.0.0 static.narrativ.com
+
+# parsely.com
+0.0.0.0 cdn.parsely.com
+0.0.0.0 p1.parsely.com
+
 # rubiconproject.com
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 beacon-sjc2.rubiconproject.com
@@ -64,6 +72,10 @@
 0.0.0.0 smarttag.rubiconproject.com
 0.0.0.0 vast.rubiconproject.com
 
+# scroll.com
+0.0.0.0 connect.scroll.com
+0.0.0.0 static.scroll.com
+
 # smartadserver.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 rtb-csync.smartadserver.com
@@ -74,3 +86,7 @@
 0.0.0.0 b.t.tailtarget.com
 0.0.0.0 d.tailtarget.com
 0.0.0.0 tags.t.tailtarget.com
+
+# voxmedia.com
+0.0.0.0 optimize-stats.voxmedia.com
+0.0.0.0 phonograph2.voxmedia.com

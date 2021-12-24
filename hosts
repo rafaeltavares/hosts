@@ -4,10 +4,15 @@
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 fundingchoicesmessages.google.com
-0.0.0.0 google-analytics.com
-0.0.0.0 googletagmanager.com.com
 0.0.0.0 horizon-track.globo.com
 0.0.0.0 metrics.icloud.com
+0.0.0.0 p1.parsely.com
 0.0.0.0 pixel.wp.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.googletagservices.com
+
+# moatads
+0.0.0.0 mb.moatads.com
+0.0.0.0 z.moatads.com

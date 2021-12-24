@@ -1,4 +1,3 @@
-0.0.0.0 ads.rubiconproject.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 cdn.concert.io
@@ -6,16 +5,20 @@
 0.0.0.0 connect.facebook.net
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 horizon-track.globo.com
+0.0.0.0 ib.adnxs.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 p1.parsely.com
 0.0.0.0 pixel.wp.com
+0.0.0.0 prg.smartadserver.com
+0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 
-# criteo.com
+# criteo.(com|net)
 0.0.0.0 bidder.criteo.com
 0.0.0.0 gum.criteo.com
+0.0.0.0 static.criteo.net
 
 # doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
@@ -25,10 +28,20 @@
 # googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+
+# krxd.net
+0.0.0.0 beacon.krxd.net
+0.0.0.0 cdn.krxd.net
+0.0.0.0 consumer.krxd.net
 
 # moatads.com
 0.0.0.0 mb.moatads.com
 0.0.0.0 z.moatads.com
+
+# rubiconproject.com
+0.0.0.0 ads.rubiconproject.com
+0.0.0.0 fastlane.rubiconproject.com
 
 # tailtarget.com
 0.0.0.0 b.t.tailtarget.com

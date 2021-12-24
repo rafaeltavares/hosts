@@ -12,7 +12,6 @@
 0.0.0.0 metrics.icloud.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 pixel.advertising.com
-0.0.0.0 pixel.wp.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sr.studiostack.com
 0.0.0.0 tags.tiqcdn.com
@@ -116,3 +115,7 @@
 # voxmedia.com
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 phonograph2.voxmedia.com
+
+# wp.com
+0.0.0.0 pixel.wp.com
+0.0.0.0 stats.wp.com

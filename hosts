@@ -1,25 +1,34 @@
 0.0.0.0 a.teads.tv
+0.0.0.0 ads.yieldmo.com
 0.0.0.0 adserver.pressboard.ca
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 api.bam-x.com
 0.0.0.0 assoc-na.associates-amazon.com
+0.0.0.0 bh.contextweb.com
+0.0.0.0 c1.adform.net
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 connect.facebook.net
+0.0.0.0 contextual.media.net
 0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 jill.fc.yahoo.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 pixel.advertising.com
+0.0.0.0 prod-m-node-1213.ssp.advertising.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sr.studiostack.com
+0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 tags.tiqcdn.com
+0.0.0.0 us-u.openx.net
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 
 # adnxs.com
+0.0.0.0 acdn.adnxs.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 secure.adnxs.com
 
@@ -28,12 +37,17 @@
 0.0.0.0 s.amazon-adsystem.com
 
 # casalemedia.com
+0.0.0.0 a3985.casalemedia.com
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 htlb.casalemedia.com
 
 # criteo.(com|net)
+0.0.0.0 ads.us.criteo.com
 0.0.0.0 bidder.criteo.com
+0.0.0.0 csm.us.criteo.net
+0.0.0.0 dis.criteo.com
 0.0.0.0 gum.criteo.com
+0.0.0.0 pix.us.criteo.net
 0.0.0.0 static.criteo.net
 
 # doubleclick.net
@@ -62,6 +76,9 @@
 0.0.0.0 beacon.krxd.net
 0.0.0.0 cdn.krxd.net
 0.0.0.0 consumer.krxd.net
+
+# microsoft.com
+# 0.0.0.0 browser.events.data.microsoft.com
 
 # moatads.com
 0.0.0.0 mb.moatads.com

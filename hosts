@@ -133,6 +133,7 @@
 
 # trafficmanager.net
 0.0.0.0 k8stm-prd-cane.trafficmanager.net
+0.0.0.0 self-events-data.trafficmanager.net
 0.0.0.0 teams-events-data.trafficmanager.net
 0.0.0.0 us.events.data.trafficmanager.net
 0.0.0.0 wdatpsngatewaytmcacane.trafficmanager.net
